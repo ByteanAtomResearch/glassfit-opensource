@@ -1,2 +1,2 @@
-glassfit
+glassfit-API
 ========
